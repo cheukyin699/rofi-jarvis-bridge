@@ -14,7 +14,7 @@ Modify the command that starts up rofi:
 bindsym $mod+d exec "rofi -modi window,run,jarvis:~/<project-directory>/rofi-jarvis.sh -show run
 ```
 
-The above config is for i3wm, binding the shortcut <kbd>$mod+d</kbd> to run
+The above config is for i3wm, binding the shortcut <kbd>Win+d</kbd> to run
 rofi. `<project-directory>` points to the directory that this file is in.
 
 [jarvis]: https://github.com/sukeesh/Jarvis
